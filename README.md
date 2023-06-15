@@ -18,7 +18,7 @@ Código feito em java.
 - João Paulo Leão
 - Felipe Santos
 - Giovana Altair
-- Lucas Lopes
+- [Lucas Lopes](https://github.com/Lucaslopes47)
 
 ## Perguntas
 
