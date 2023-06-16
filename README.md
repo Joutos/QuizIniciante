@@ -4,6 +4,7 @@
 - [Desenvolvedores](#desenvolvedores)
 - [Perguntas](#perguntas)
 - [Como jogar](#como-jogar)
+- [Diagrama de Classes](#diagrama-de-classes)
 
 
 ## Descrição
