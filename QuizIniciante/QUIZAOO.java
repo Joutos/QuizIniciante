@@ -101,7 +101,7 @@ public class QUIZAOO {
         int idPergunta = 0;
         try {
             //Instancia o objeto para ler o arquivos pergunta.txt
-            File myObj = new File("C:\\Users\\jpd00\\Documents\\NetBeansProjects\\QUIZAOO\\src\\main\\java\\com\\mycompany\\quizaoo\\perguntas.txt");
+            File myObj = new File("DIRETORIO DO ARQUIVO DE PERGUNTAS");
             Scanner myReader = new Scanner(myObj);
             while (myReader.hasNextLine()) {
                 int indParte = 3;
