@@ -60,3 +60,6 @@ Ao confirmarem a resposta, se você errou, será exibida uma mensagem que você 
 Se a vida chegar a 0%, você está eliminado e a vitória é dada ao outro jogador.
 Em um caso que as perguntas terminam, aquele com a maior porcentagem de vida ganha. Caso a vida seja igual, é um empate.
 
+## Diagrama de Classes
+
+![Diagrama de Classes](https://github.com/Joutos/QuizIniciante/blob/main/ClassDiagram.png)
