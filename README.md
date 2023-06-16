@@ -15,9 +15,9 @@ Código feito em java.
 
 ## Desenvolvedores
 
-- João Paulo Leão
-- Felipe Santos
-- Giovana Altair
+- [João Paulo Leão](https://github.com/Joutos)
+- [Felipe Santos](https://github.com/FelipeDoismil)
+- [Giovana Altair](https://github.com/GiovannaAltair)
 - [Lucas Lopes](https://github.com/Lucaslopes47)
 
 ## Perguntas
